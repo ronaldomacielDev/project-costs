@@ -1,0 +1,15 @@
+### create-react-app project-costs
+
+### npm i json-server
+
+### npm i react-router-dom
+
+### npm i uuid
+
+Excluir os arquivos:
+
+* App.css
+* App.test.js
+* logo.svg
+* reportWebVitals.js
+* setupTests.js
